@@ -19,5 +19,6 @@ Together, we can help ensure that everyone receives the most accurate and up-to-
 Please contact Andrew Sharp from CARPLS at asharp@carpls.org if you have any questions or concerns.
 
 ## Demo Video
-<video src="final_demo.mp4" width="320" height="240" controls></video>
+![demo](final_demo.gif)
+<!-- <video src="final_demo.mp4" width="320" height="240" controls></video> -->
 
