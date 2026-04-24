@@ -1,4 +1,3 @@
-# MyCourtPal
 ![logo](frontend/dist/assets/logo_name_new-Bm3mSLzG.png)
 
 ## About Us
